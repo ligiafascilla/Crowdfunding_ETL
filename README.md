@@ -9,5 +9,7 @@
 ### Contacts data frame saved as contacts.csv
 # Data Base
 ### Schema saved as QuickDBD-crowdfunding.png
-### Data Base saved as crowdfunding_db
+### Schema creation code saved as crowdfunding_db_schema.sql
+# Final Tables
+###
 
