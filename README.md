@@ -5,6 +5,6 @@
 # Data Frames
 ### Category data frame as category.csv found inside Resources folder
 ### Sub-category data frame as subcategory.csv found inside Resources folder
-### Campaign data frame found as campaign.csv
-### Contacts data frame found as contacts.csv
+### Campaign data frame saved as campaign.csv
+### Contacts data frame saved as contacts.csv
 
