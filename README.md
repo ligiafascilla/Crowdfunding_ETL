@@ -11,5 +11,7 @@
 ### Schema saved as QuickDBD-crowdfunding.png
 ### Schema creation code saved as crowdfunding_db_schema.sql
 # Final Tables
-###
-
+### Category table saved as category_table.png
+### Sub-Category table saved as subcategory_table.png
+### Campaign table saved as campaign_table.png
+### Contacts table saved as contacts_table.png
