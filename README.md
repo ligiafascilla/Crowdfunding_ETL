@@ -7,4 +7,7 @@
 ### Sub-category data frame as subcategory.csv found inside Resources folder
 ### Campaign data frame saved as campaign.csv
 ### Contacts data frame saved as contacts.csv
+# Data Base
+### Schema saved as crowdfunding_db_schema.sql
+### Data Base saved as crowdfunding_db
 
