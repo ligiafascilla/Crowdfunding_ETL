@@ -8,6 +8,6 @@
 ### Campaign data frame saved as campaign.csv
 ### Contacts data frame saved as contacts.csv
 # Data Base
-### Schema saved as crowdfunding_db_schema.sql
+### Schema saved as QuickDBD-crowdfunding.png
 ### Data Base saved as crowdfunding_db
 
